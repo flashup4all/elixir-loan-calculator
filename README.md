@@ -1,19 +1,13 @@
 # LoanCalculator
 
-**TODO: Add description**
+**TODO: **
+- clone the project or download the zip file
 
-## Installation
+- cd into elixir-loan-calculator
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `loan_calculator` to your list of dependencies in `mix.exs`:
+- enter 'iex -S mix' in your cli
+- LoanCalculator.calculator(interest, amount, no_of_days)
 
-```elixir
-def deps do
-  [
-    {:loan_calculator, "~> 0.1.0"}
-  ]
-end
-```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
